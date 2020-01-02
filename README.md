@@ -13,7 +13,7 @@ The Neural Network Models were built using Keras, using TensorFlow as the backen
 - Link to dataset - [Link to Dataset](https://github.com/mdeff/fma)
 
 ### Spectrogram Representation
-![](https://github.com/sarafvaibhav/music-genre/blob/master/sp1.png)
+![](https://github.com/sarafvaibhav1998/Energy-Prediction/blob/master/sp1.png)
 
 ## References
 - (http://www.cs.cmu.edu/~yh/files/GCfA.pdf)
